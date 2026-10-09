@@ -1,0 +1,4 @@
+error_type,patient_id_1,patient_id_2,gt_id_1,gt_id_2,name_1,name_2,dob_1,dob_2,clinic_1,clinic_2,score
+FP,PID_cleveland_0106,PID_switzerland_0671,PID_cleveland_0106,PID_switzerland_0671,Damilola Alabi,Damilola Alabi,1967-10-11,1967-10-13,cleveland,switzerland,0.958
+FP,PID_switzerland_0649,PID_va_0809,PID_switzerland_0649,PID_va_0809,Michael Davis,Michael Davis,1971-11-22,1971-11-08,switzerland,va,0.9125
+FP,PID_switzerland_0649,PID_va_0809_DUP_0069,PID_switzerland_0649,PID_va_0809,Michael Davis,Davis Michael,1971-11-22,1971-11-08,switzerland,switzerland,0.0
